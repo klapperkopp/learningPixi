@@ -1,0 +1,23 @@
+{
+  "name": "learningpixi",
+  "version": "1.0.0",
+  "description": "Learning Pixi =============",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kittykatattack/learningPixi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kittykatattack/learningPixi/issues"
+  },
+  "homepage": "https://github.com/kittykatattack/learningPixi#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
